@@ -1,2 +1,0 @@
-# WatchStore
-Watch store App
